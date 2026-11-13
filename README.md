@@ -12,3 +12,5 @@ Modifier: Chaos Mode - Enable Caulrophobia, unnerving presence and Madness to al
 Missing a skillcheck will block movement inputs for 2-3 seconds, and missing many in a row will increase the block up to 5 seconds (resets when successful)     
 Enjoy! 
 This is and will remain free, I do not own the Dead By Daylight assets!
+
+The Program has used Artificial Intelligence in the process of its creation.
