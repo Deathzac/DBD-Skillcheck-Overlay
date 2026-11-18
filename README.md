@@ -13,4 +13,3 @@ Missing a skillcheck will block movement inputs for 2-3 seconds, and missing man
 Enjoy! 
 This is and will remain free, I do not own the Dead By Daylight assets!
 
-The Program has used Artificial Intelligence in the process of its creation.
